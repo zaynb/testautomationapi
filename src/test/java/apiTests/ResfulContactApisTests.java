@@ -40,7 +40,7 @@ public class ResfulContactApisTests {
 
         responseToValidate.log().all();
     }
-    // read booking
+    // read contact
     @Test(priority = 2)
     public void testGetContact ()
     {
